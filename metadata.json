@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉRA SKIN - E-Commerce & Admin Panel",
+  "description": "Premium skincare e-commerce website with customer store, full cart, checkout, payment flow, and integrated admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
